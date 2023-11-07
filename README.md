@@ -1,5 +1,5 @@
 # Cours-QT
-#*** Apprendre à programmer avec QT ***#
+#*** Créer des interfaces avec  QT ***#
 
 Ce cours est destiné à pour objectif d'apprendre la programmation QT. Il est composé de deux parties:
 
