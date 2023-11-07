@@ -1,7 +1,7 @@
 # Cours-QT
 #*** Créer des interfaces avec  QT ***#
 
-Ce cours est destiné à pour objectif d'apprendre la programmation QT. Il est composé de deux parties:
+Ce cours à pour objectif d'apprendre la programmation QT. Il est composé de deux parties:
 
     1- Concepts théoriques pour la programmation des interfaces quaohiques (IHM) avec des exemples.
 
